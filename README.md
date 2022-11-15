@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [QR code component solution](https://github.com/kwngptrl/FEM-QR-code-component)
+- Live Site URL: [Live site](https://kwngptrl.github.io/FEM-QR-code-component/)
 
 ## My process
 
@@ -52,4 +52,4 @@ In style.css, it is not enough to do a display:grid; place-content: center; Beca
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@kwngptrl](https://www.frontendmentor.io/profile/kwngptrl)
